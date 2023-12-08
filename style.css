@@ -12,7 +12,7 @@
     background-image: url(media/header_bg.png), url(media/developer.png);
     background-repeat: no-repeat;
     background-position: right bottom, left;
-   
+
 
 }
 
@@ -36,7 +36,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 30px 120px;
+    margin: 0 120px;
 }
 
 .nav ul {
@@ -125,3 +125,24 @@
 
 /* main Branch */
 
+.about-section {
+    width: 990px;
+    height: 350px;
+    background-color: #FFF8F3;
+    margin: 50px 120px;
+
+}
+
+.about {
+    text-align: center;
+   
+}
+
+.about-m {
+    text-align: center;
+    color: #181818;
+    font-size: 35px;
+    font-weight: 700;
+    margin-top: 2000px;
+
+}
